@@ -2,3 +2,7 @@ facebook, width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.ne
 instagram, width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/l7p3CRsfDyq.png"); mask-position: 0px -63px;
 audience_network, width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/l7p3CRsfDyq.png"); mask-position: 0px -46px;
 messenger, width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/qq1z0SeuhFu.png"); mask-position: 0px -663px;
+facebook, width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/y5/r/2VYfTUJ4c0d.png"); mask-position: 0px -1146px;
+instagram, width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/yy/r/l7p3CRsfDyq.png"); mask-position: 0px -63px;
+audience_network, width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/yy/r/l7p3CRsfDyq.png"); mask-position: 0px -46px;
+messenger, width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/yX/r/qq1z0SeuhFu.png"); mask-position: 0px -663px;
