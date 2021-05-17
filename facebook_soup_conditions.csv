@@ -16,3 +16,6 @@ messenger,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.
 facebook,width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/O2h8Nphzx_B.png"); mask-position: 0px -890px;
 instagram,width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/3ImrENrCw-D.png"); mask-position: 0px -322px;
 messenger,width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/3ImrENrCw-D.png"); mask-position: 0px -339px;
+facebook,width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/y8/r/O2h8Nphzx_B.png"); mask-position: 0px -890px;
+instagram,width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/yA/r/3ImrENrCw-D.png"); mask-position: 0px -322px;
+messenger,width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/yA/r/3ImrENrCw-D.png"); mask-position: 0px -339px;
