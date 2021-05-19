@@ -20,3 +20,7 @@ facebook,width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rs
 instagram,width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/yA/r/3ImrENrCw-D.png"); mask-position: 0px -322px;
 messenger,width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/yA/r/3ImrENrCw-D.png"); mask-position: 0px -339px;
 instagram,width: 16px; height: 16px; mask-image: url("https://www.facebook.com/rsrc.php/v3/yA/r/3ImrENrCw-D.png"); mask-position: 0px -322px;
+facebook,width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/xFI9S0s0OJg.png"); mask-position: 0px -315px;
+instagram,width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/xFI9S0s0OJg.png"); mask-position: 0px -332px;
+audience_network,width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/xFI9S0s0OJg.png"); mask-position: 0px -298px;
+messenger,width: 16px; height: 16px; mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/wxBiGF_UBj8.png"); mask-position: 0px -668px;
