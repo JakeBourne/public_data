@@ -28,3 +28,7 @@ facebook,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.f
 instagram,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/1MoBnEP6Yl7.png"); -webkit-mask-size: 49px 707px; -webkit-mask-position: -25px -216px;
 messenger,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/1MoBnEP6Yl7.png"); -webkit-mask-size: 49px 707px; -webkit-mask-position: 0px -299px;
 audience_network,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/1MoBnEP6Yl7.png"); -webkit-mask-size: 49px 707px; -webkit-mask-position: -29px -82px;
+facebook,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/vpUjPZglrYa.png"); -webkit-mask-size: 25px 1668px; -webkit-mask-position: 0px -789px;
+instagram,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/y2gdd81yWb2.png"); -webkit-mask-size: 49px 458px; -webkit-mask-position: -29px -82px;
+audience_network,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/opNQvHi7wz1.png"); -webkit-mask-size: 25px 710px; -webkit-mask-position: 0px -356px;
+messenger,width: 16px; height: 16px; -webkit-mask-image: url("https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/opNQvHi7wz1.png"); -webkit-mask-size: 25px 710px; -webkit-mask-position: 0px -373px;
